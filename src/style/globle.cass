@@ -1,0 +1,12 @@
+.List-main{
+    min-height: 60vh;
+    width: 50vw;
+    border: 2px solid black ;
+}
+.list-status{
+    background-color: aliceblue;
+    color: black;
+    height: full;
+    width: full;
+    margin: 10px;
+}
